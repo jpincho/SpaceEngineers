@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarArray", "SolarArray.csproj", "{510F4D27-DD4E-4459-A44C-F84CDE887A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510F4D27-DD4E-4459-A44C-F84CDE887A4A}.Debug|x64.ActiveCfg = Debug|x64
+		{510F4D27-DD4E-4459-A44C-F84CDE887A4A}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77EED628-EDA0-465B-950D-5A242DB157B4}
+	EndGlobalSection
+EndGlobal
